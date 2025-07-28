@@ -9,7 +9,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=osman-miskhodzhev&style=flat-square&color=0e75b6" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/osman-miskhodzhev?style=social" alt="GitHub followers"/>
 </div>
 
