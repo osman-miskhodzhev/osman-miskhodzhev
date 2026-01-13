@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Python+Backend+Developer;Django+%7C+DRF+%7C+PostgreSQL;Clean+Code+%7C+TDD+%7C+CI%2FCD" alt="Typing SVG" />
-</div>
-
 <h1 align="center">Привет, я Осман Мисходжев! 👨‍💻</h1>
 
 <h3 align="center">Backend Python разработчик из Нижнего Новгорода</h3>
