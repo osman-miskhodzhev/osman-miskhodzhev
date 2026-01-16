@@ -47,7 +47,7 @@
 
 ## 💼 Опыт работы
 
-### 🏥 **БиоМед** — г. Черкесск
+### 🏥 **Новые Горизонты** — г. Черкесск
 **Backend-разработчик** | *Февраль 2024 — Настоящее время*
 
 Разработка внутреннего корпоративного приложения **"ЦифрЭк"** для автоматизации учета посещаемости студентов.
@@ -90,22 +90,6 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=osman-miskhodzhev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osman-miskhodzhev&layout=compact&langs_count=8&theme=dark"/>
-</div>
-
----
-
-## 📫 Связаться со мной
-
-<div align="center">
-  <a href="https://t.me/osman_miskhodzhev_dev">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="mailto:miskhodzhev.osman@yandex.ru">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/osman-miskhodzhev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
 </div>
 
 ---
